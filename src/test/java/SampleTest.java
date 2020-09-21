@@ -38,6 +38,14 @@ public class SampleTest {
 
     }
 
+
+    @Test
+    public void BrowserTest() {
+
+    }
+
+
+
     @AfterClass
     public void tearDown() {
         driver.quit();
